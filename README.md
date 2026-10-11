@@ -27,10 +27,9 @@ A web-based **Database Management System (DBMS) Mini Project** that enables user
    - [Step 5: Run the Website on `localhost`](#step-5-run-the-website-on-localhost)
 8. [Database Workflow & Architecture](#-database-workflow--architecture)
 9. [Testing & Verification Steps](#-testing--verification-steps)
-10. [Screenshots](#-screenshots)
-11. [Known Limitations](#-known-limitations)
-12. [Future Enhancements](#-future-enhancements)
-13. [Author](#-author)
+10. [Known Limitations](#-known-limitations)
+11. [Future Enhancements](#-future-enhancements)
+12. [Author](#-author)
 
 ---
 
@@ -321,20 +320,6 @@ Follow these steps to verify that the setup and database connectivity are workin
    - **Expected Result:** An alert `Ticket booked successfully!` appears and redirects you to `view_ticket.php`.
 5. **Verify Dynamic Ticket Listing (`view_ticket.php`)**
    - On `http://localhost/DBMS/view_ticket.php`, verify that your newly booked ticket is listed with its generated **Ticket ID**, **Train Name**, **Source**, **Destination**, **Date**, **Seat No** (`S1`–`S100`), and **Passenger Name**.
-
----
-
-## 🖼️ Screenshots
-
-> *Add project screenshots to a `screenshots/` folder and update the paths below:*
-
-| Page | Screenshot Placeholder |
-| :--- | :--- |
-| **Home Page (`index.html`)** | `![Home Page](screenshots/home.png)` |
-| **Sign Up Page (`signup.html`)** | `![Sign Up Page](screenshots/signup.png)` |
-| **Login Page (`login.html`)** | `![Login Page](screenshots/login.png)` |
-| **Book Ticket Page (`book_ticket.html`)** | `![Book Ticket Page](screenshots/book_ticket.png)` |
-| **View Booked Tickets (`view_ticket.php`)** | `![View Tickets Page](screenshots/view_ticket.png)` |
 
 ---
 
